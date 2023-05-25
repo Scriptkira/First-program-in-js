@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            function hello(){
+                alert("Hello world")
+            }
+        </script>
+    </head>
+    <body>
+        <p>javascript</p>
+        <form>
+            <input type="button"value = "click me" on click = "hello()"/>
+        </form>
+    </body>
+</html>
+
+// 
+
+hello.js
+
+function hello(){
+    alert("Hello world");
+}
